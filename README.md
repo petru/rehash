@@ -1,14 +1,14 @@
-# Dawn
+# rehash
 
 A highly functional theme that adapts to the reader's preferences. Let them read, search, subscribe, navigate, and more with ease. Completely free and fully responsive, released under the MIT license.
 
-**Demo: https://dawn.ghost.io**
+**Demo: https://petrumadar.com** (my homepage)
 
 &nbsp;
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Dawn/archive/main.zip)
+1. [Download this theme](https://github.com/petru/rehash/archive/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Development
@@ -37,4 +37,5 @@ yarn zip
 
 # Copyright & License
 
+Copyright (c) 2022 Petru Madar - Released under the [MIT license](LICENSE).
 Copyright (c) 2013-2022 Ghost Foundation - Released under the [MIT license](LICENSE).
